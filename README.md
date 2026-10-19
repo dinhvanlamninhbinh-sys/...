@@ -1,4 +1,4 @@
-[
+
 <!DOCTYPE html>
 <!-- Tiny V10: question blink curve restored on mobile; laptop transition render budget. -->
 <html lang="vi">
@@ -7032,7 +7032,7 @@ TFWIzX5DGopyKRLYFPGHql6P9zv1stRDOfYEjrVUkEbbUy9Iq1VcXKkfmC4j4mJSWYgoqltqC5nfEhoY
         </div>
       </div>
       <p id="share-flight-status" class="share-flight-status" aria-live="polite"></p>
-      <a id="share-copy-manual" href="https://20-10-vuive.kazvndc-edu.workers.dev/" target="_blank" rel="noopener noreferrer">https://20-10-vuive.kazvndc-edu.workers.dev/</a>
+      <a id="share-copy-manual" href="https://dinhvanlamninhbinh-sys.github.io/.../" target="_blank" rel="noopener noreferrer">hhttps://dinhvanlamninhbinh-sys.github.io/.../</a>
     </section>
 
 
@@ -7054,7 +7054,7 @@ TFWIzX5DGopyKRLYFPGHql6P9zv1stRDOfYEjrVUkEbbUy9Iq1VcXKkfmC4j4mJSWYgoqltqC5nfEhoY
       <div class="reality-face">
         <div id="tiny-reality-eye-host" aria-hidden="true"></div>
       </div>
-      <h2 class="reality-message">và giúp tớ <span class="reality-pink">bước ra ngoài đời thực</span> được chứ?</h2>
+      <h2 class="reality-message">và gửi lời chúc <span class="reality-pink">20/10 rạng rỡ nhất đến Cô và các bạn nữ</span> nhé?</h2>
       <div class="reality-moon-walk" aria-hidden="true">
   <svg class="moon-landscape" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" preserveAspectRatio="xMidYMax slice">
     <defs>
@@ -9417,7 +9417,7 @@ const SPRITES = [taoSprite(1.02, 140), taoSprite(.96, 136), taoSprite(1.08, 145)
 
 
         // ---- FINAL SHARE FLIGHT: dedicated scene after the wink/question scene ----
-        const SHARE_FLIGHT_URL = 'https://20-10-vuive.kazvndc-edu.workers.dev/';
+        const SHARE_FLIGHT_URL = 'https://dinhvanlamninhbinh-sys.github.io/.../';
         const shareFlightScene = document.getElementById('share-flight-scene');
         const shareFlightDevice = document.getElementById('share-flight-device');
         const shareFuelButton = document.getElementById('share-fuel-button');
@@ -10837,4 +10837,4 @@ const SPRITES = [taoSprite(1.02, 140), taoSprite(.96, 136), taoSprite(1.08, 145)
  
 </script>
 </body>
-</html>](https://20-10-vuive.kazvndc-edu.workers.dev/)
+</html>
